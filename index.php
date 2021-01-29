@@ -1,6 +1,7 @@
 <?php
 
-require_once "m.php";
+// require_once "m.php";
+$ss = 12;
 
 ?><!DOCTYPE HTML>
 <!--
@@ -51,7 +52,7 @@ require_once "m.php";
 						<a href="download">تحميل</a>
 						<a href="docs">التوثيق</a>
 						<a href="news">الأخبار</a>
-						<a href="https://www.aliflang.org/community" target="_blank">المجتمع</a>
+						<a href="./community.php" target="_blank">المجتمع</a>
 						<a href="about">حول</a>
 						<a href="donations">ساهم</a>
 					</nav>

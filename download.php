@@ -51,7 +51,7 @@ require_once "m.php";
 							<a href="download" style="background: #5C8BC5; border-bottom: 2px solid #8AACD5;">تحميل</a>
 							<a href="docs">التوثيق</a>
 							<a href="news">الأخبار</a>
-							<a href="https://www.aliflang.org/community" target="_blank">المجتمع</a>
+							<a href="./community.php" target="_blank">المجتمع</a>
 							<a href="about">حول</a>
 							<a href="donations">ساهم&nbsp;&nbsp;&nbsp;</a>
 						</nav>
