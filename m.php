@@ -2,7 +2,7 @@
 
 if(empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] == "off")
 {
-    $redirect = 'http://127.0.0.1:80' . $_SERVER['REQUEST_URI'];
+    $redirect = 'https://www.aliflang.org/' . $_SERVER['REQUEST_URI'];
 	
     header('HTTP/1.1 301 Moved Permanently');
     header('Location: ' . $redirect);
