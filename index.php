@@ -1,7 +1,6 @@
 <?php
 
-// require_once "m.php";
-$ss = 12;
+require_once "m.php";
 
 ?><!DOCTYPE HTML>
 <!--
