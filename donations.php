@@ -156,7 +156,7 @@ require_once "m.php";
 
 						<h2>مساهمة تقنية</h2>
 						<p style="font-size: 18px; direction: rtl">تحميل الشيفرة المصدرية (رخصة GPLv3) : <br />
-						<a href="https://github.com/hassandraga/alif" target="_blank">https://github.com/hassandraga/alif</a></p>
+						<a href="https://github.com/alifcommunity/alifstudio" target="_blank">https://github.com/alifcommunity/alifstudio</a></p>
 						<p style="font-size: 18px">مجتمع ألف يرحب بالمبرمجين المتطوعين الجدد اللدين يرغبون في الانظمام اليه من اجل تطوير مكتبات لغة ألف، عن طريق المساهمة بخبراتهم في البرمجة بلغة سي++ و مكتبات وكس ويدجيتز</p>
 
 						<footer>
