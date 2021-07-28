@@ -77,7 +77,7 @@ require_once "m.php";
 						<p style="font-size: 18px">ألف ستوديو هو عبارة عن مجموعة من التطبيقات مفتوحة المصدر، تشكل بيئة تطوير متكاملة خاصة بلغة ألف، تسهل على المبرمجين كتابة تطبيقات بلغة ألف و تحرير ملفات شيفرة ألف، و كذالك عملية تثبيت مترجم ألف، و القيام بالتحديث عبر الانترنت</p>
 						
 						<p style="font-size: 18px; direction: rtl">تحميل الشيفرة المصدرية (رخصة GPLv3) : <br />
-						<a href="https://github.com/hassandraga/alif" target="_blank">https://github.com/hassandraga/alif</a></p>
+						<a href="https://github.com/alifcommunity/alifstudio" target="_blank">https://github.com/alifcommunity/alifstudio</a></p>
 
 					</header>
 
